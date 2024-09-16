@@ -3,7 +3,11 @@ guid: 3f6534f5c53d2f040bb50d0ac26ff2fa
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - hud: {instanceID: 0}
+  - msgVitoria: {instanceID: 0}
+  - clipMoeda: {fileID: 8300000, guid: e02f5a3c67c1b394f87ee29034ed87d8, type: 3}
+  - clipVitoria: {fileID: 8300000, guid: 561dc40d1e5d8b943bdd4ec3f75887cc, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
